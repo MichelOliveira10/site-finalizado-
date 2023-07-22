@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* Define a cor do texto para branco */
+    background-color: #292626de; /* Background color black */
+}
+
+.cabecalho {
+    background-color: #000000d5; /* Header background color black */
+    color: #4bf529; /* Header text color green */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+}
+
+/* Rest of your CSS... */
+
+.estudante {
+    text-align: center;
+    background-color: #464242; /* Section background color black */
+    padding: 50px;
+}
+
+.estudante-todos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.estudante-item {
+    text-align: center;
+    width: 280px;
+    background-color: #168600; /* Student section background color green */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Rest of your CSS... */
+
+.instagram-logo {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+
+/* Rest of your CSS... */
